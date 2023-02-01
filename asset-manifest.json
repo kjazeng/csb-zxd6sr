@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kjazeng.github.io/csb-zxd6sr/static/css/main.ae0389ea.chunk.css",
+    "main.js": "https://kjazeng.github.io/csb-zxd6sr/static/js/main.7f8ec4de.chunk.js",
+    "main.js.map": "https://kjazeng.github.io/csb-zxd6sr/static/js/main.7f8ec4de.chunk.js.map",
+    "runtime-main.js": "https://kjazeng.github.io/csb-zxd6sr/static/js/runtime-main.de53983e.js",
+    "runtime-main.js.map": "https://kjazeng.github.io/csb-zxd6sr/static/js/runtime-main.de53983e.js.map",
+    "static/js/2.72e4b21e.chunk.js": "https://kjazeng.github.io/csb-zxd6sr/static/js/2.72e4b21e.chunk.js",
+    "static/js/2.72e4b21e.chunk.js.map": "https://kjazeng.github.io/csb-zxd6sr/static/js/2.72e4b21e.chunk.js.map",
+    "index.html": "https://kjazeng.github.io/csb-zxd6sr/index.html",
+    "static/css/main.ae0389ea.chunk.css.map": "https://kjazeng.github.io/csb-zxd6sr/static/css/main.ae0389ea.chunk.css.map",
+    "static/js/2.72e4b21e.chunk.js.LICENSE.txt": "https://kjazeng.github.io/csb-zxd6sr/static/js/2.72e4b21e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de53983e.js",
+    "static/js/2.72e4b21e.chunk.js",
+    "static/css/main.ae0389ea.chunk.css",
+    "static/js/main.7f8ec4de.chunk.js"
+  ]
+}
